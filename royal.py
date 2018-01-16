@@ -74,6 +74,6 @@ os.system("cls")
 print(red("WARNING: This script is written for python 3 only, if you use python 2 the script may fail."))
 print(">> Loading...")
 time.sleep(3)
-print("Generating an 12 characters ultra-secure password...")
+print("Generating an 14 characters ultra-secure password...")
 from utils import password
 password()
